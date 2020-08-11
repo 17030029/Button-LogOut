@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shered_Preferences</string>
+    <string name="string_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign In short</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="error_invalid_password">Email dan Password tidak tepat</string>
+    <string name="error_field_required">Silahkan masukkan email yang benar</string>
+    <string name="error_invalid_email">Email dan Password tidak tepat</string>
+    <string name="resqi_tri_haryono">Resqi Tri Haryono (17030029)</string>
+</resources>
